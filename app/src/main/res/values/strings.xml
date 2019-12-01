@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Movers</string>
+    <string name="google_maps_key">AIzaSyCrFCNj9lw3k9CAo6vekHOcrSrlL2eMUhU</string>
+    <string name="title_home">Home</string>
+    <string name="title_history">History</string>
+    <string name="title_timeline">Timeline</string>
+    <string name="title_topup">Top Up</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="title_mopay">Mo-Pay</string>
+    <string name="title_menu_scanQr">Scan QR</string>
+    <string name="title_menu_topup">Top Up</string>
+    <string name="title_menu_mopay_history">History</string>
+
+    <string name="text_scan_qr">Show this QR code below to the cashier to complete your payment.</string>
+    <string name="text_qr">Tap QR to Expand</string>
+    <string name="text_mopay_term">All your transactions are secure and fast. By continuing, you agree to the <b>Terms &amp; conditions</b>.</string>
+    <string name="text_no_account">Not a member?</string>
+    <string name="text_have_account">Already have account?</string>
+    <string name="text_login_now">Login Now</string>
+    <string name="text_register">Register Now</string>
+
+
+    <string name="text_wellcom">Enjoy your ride with us</string>
+
+    <string name="btn_change_profile">Change</string>
+    <string name="btn_logout">Log out</string>
+    <string name="btn_login">Log in</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_get_started">Start</string>
+
+    <string name="title_rating_app">Rating</string>
+    <string name="title_help">Help</string>
+    <string name="title_terms_service">Terms &amp; Conditions</string>
+    <string name="title_privacy_policy">Privacy Policy</string>
+    <string name="hint_email"> Email</string>
+    <string name="hint_password"> Password</string>
+    <string name="hint_name"> Name</string>
+    <string name="hint_phone"> Phone</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="register_text">Complete the empty form below</string>
+    <string name="btn_update">Update Profile</string>
+    <string name="search_hint">Search Your Destination</string>
+    <string name="text_list_station">Station\'s List</string>
+
+
+    <string name="title_1">Riau Forest Fires</string>
+    <string name="description_1">
+SHARES
+Indonesia is currently on the brink of another haze crisis as the archipelago is seeing an increase in the number of forest and land fires. According to the Meteorology, Climatology and Geophysics Agency (BMKG), the number of hot spots increased to 2,002 on Aug. 9 from 1,586 on Aug. 7 and 1,025 on Aug. 3. The hot spots were largely detected in the provinces of Riau, West Kalimantan and Central Kalimantan. Apart from the hot spots, wildfires also burned more land area. The Environment and Forestry Ministry recorded wildfires had burned 42,740 hectares of land across the country between January and May -- nearly twice the area burned in the corresponding period last year.</string>
+    <string name="title_2">Cashback 35%</string>
+    <string name="description_2">Transmetro Pekanbaru Government have collaborated with Movers Application to fullfil the vision and mission
+    of Pekanbaru Smart City. Discount will be available for the new users and for the loyal customer will be given up to 40% cashback. </string>
+
+    <string name="txtTitleCV">Global Warming is Real</string>
+    <string name="txtDateCV">09th September 2019</string>
+    <string name="txtDescCV">Indonesia is facing the real issues</string>
+
+</resources>

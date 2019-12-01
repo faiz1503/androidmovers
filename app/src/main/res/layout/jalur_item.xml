@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginHorizontal="8dp"
+    android:layout_marginTop="8dp"
+    app:cardBackgroundColor="#FFFFFF">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp">
+
+        <ImageView
+            android:id="@+id/img_trayek"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_jalur"/>
+
+        <LinearLayout
+            android:layout_toRightOf="@id/img_trayek"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_view_asal_jalur"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Asal"
+                android:layout_alignParentStart="true"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:layout_toEndOf="@+id/img_bus"/>
+
+            <TextView
+                android:id="@+id/text_view_tujuan_jalur"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:text="Tujuan"
+                android:layout_below="@id/text_view_asal_jalur"/>
+
+            <TextView
+                android:id="@+id/text_view_jam"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:text="Jam"
+                android:layout_below="@id/text_view_asal_jalur"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

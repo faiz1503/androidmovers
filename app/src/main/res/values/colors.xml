@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#16caae</color>
+    <color name="colorPrimaryDark">#26d08f</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <!-- Custom Color-->
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack50">#25282B</color>
+    <color name="colorBlue50">#388BF2</color>
+    <color name="colorBackground">#E4E4E4</color>
+
+    <color name="textWhite">#ffffff</color>
+    <color name="textBlack">#000000</color>
+
+    <color name="selectedForm">#388BF2</color>
+
+    <color name="indicatorNormal">#25282B</color>
+    <color name="indicatorSelected">#388BF2</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="colorGold">#FFEB00</color>
+
+
+    <color name="fresh_green">#26d08f</color>
+    <color name="tosca_blue">#16caae</color>
+
+    <color name="tua">#7CB342</color>
+
+
+</resources>

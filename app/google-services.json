@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "367729143668",
+    "firebase_url": "https://androidmoverkmipn.firebaseio.com",
+    "project_id": "androidmoverkmipn",
+    "storage_bucket": "androidmoverkmipn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367729143668:android:767f9b071950f4e4",
+        "android_client_info": {
+          "package_name": "com.inducesmile.firestoreexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367729143668-49i0vop9dsjka44hmcns43r9lm4bf796.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inducesmile.firestoreexample",
+            "certificate_hash": "828509ed643523aee509d8214ac1bd835d22421b"
+          }
+        },
+        {
+          "client_id": "367729143668-mnvndc4r79tlao0te0veekgkl2ka7739.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUfmAhggMSJ7-y_o-Vij9qFuad_DUQx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367729143668-mnvndc4r79tlao0te0veekgkl2ka7739.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367729143668:android:c1c5990032e43e35",
+        "android_client_info": {
+          "package_name": "com.nightphantom.androidmoverkmipn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367729143668-i24510skridrl3is6fkmtbaplmu0avev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightphantom.androidmoverkmipn",
+            "certificate_hash": "828509ed643523aee509d8214ac1bd835d22421b"
+          }
+        },
+        {
+          "client_id": "367729143668-mnvndc4r79tlao0te0veekgkl2ka7739.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUfmAhggMSJ7-y_o-Vij9qFuad_DUQx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367729143668-mnvndc4r79tlao0te0veekgkl2ka7739.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367729143668:android:e7753eba058589bc",
+        "android_client_info": {
+          "package_name": "com.nightphantom.firebaseloginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367729143668-rhgooiui1dbvoduijndvs3su5m30eta5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightphantom.firebaseloginsignup",
+            "certificate_hash": "828509ed643523aee509d8214ac1bd835d22421b"
+          }
+        },
+        {
+          "client_id": "367729143668-mnvndc4r79tlao0te0veekgkl2ka7739.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUfmAhggMSJ7-y_o-Vij9qFuad_DUQx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367729143668-mnvndc4r79tlao0te0veekgkl2ka7739.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367729143668:android:360a2ec08785bae1",
+        "android_client_info": {
+          "package_name": "com.nightphantom.movers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367729143668-j5uti6v27cebrgqjq2cfevp8sq0f8r7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightphantom.movers",
+            "certificate_hash": "828509ed643523aee509d8214ac1bd835d22421b"
+          }
+        },
+        {
+          "client_id": "367729143668-mnvndc4r79tlao0te0veekgkl2ka7739.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUfmAhggMSJ7-y_o-Vij9qFuad_DUQx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367729143668-mnvndc4r79tlao0te0veekgkl2ka7739.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
